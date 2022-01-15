@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageGalleryRecycler</string>
+    <string name="permission_error">Ошибка разрешения</string>
+</resources>
